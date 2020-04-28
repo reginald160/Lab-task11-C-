@@ -1,0 +1,4 @@
+C:\c#\NovertisPharmLtd\NovertisPharmLtd\bin\Debug\NovertisPharmLtd.exe
+C:\c#\NovertisPharmLtd\NovertisPharmLtd\bin\Debug\NovertisPharmLtd.pdb
+C:\c#\NovertisPharmLtd\NovertisPharmLtd\obj\x86\Debug\NovertisPharmLtd.exe
+C:\c#\NovertisPharmLtd\NovertisPharmLtd\obj\x86\Debug\NovertisPharmLtd.pdb

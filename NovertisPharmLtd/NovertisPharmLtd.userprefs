@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="NovertisPharmLtd\NovertisPharmLtd.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NovertisPharmLtd\Medicine.cs">
+    <Files>
+      <File FileName="NovertisPharmLtd\Program.cs" Line="11" Column="65" />
+      <File FileName="NovertisPharmLtd\Medicine.cs" Line="96" Column="4" />
+      <File FileName="NovertisPharmLtd\Sales.cs" Line="81" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
